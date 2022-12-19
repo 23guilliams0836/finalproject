@@ -1,0 +1,15 @@
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\finalproject.csproj.AssemblyReference.cache
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\finalproject.AssemblyInfoInputs.cache
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\finalproject.AssemblyInfo.cs
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\bin\Debug\net6.0\finalproject.exe
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\bin\Debug\net6.0\finalproject.deps.json
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\bin\Debug\net6.0\finalproject.runtimeconfig.json
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\bin\Debug\net6.0\finalproject.dll
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\bin\Debug\net6.0\finalproject.pdb
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\finalproject.dll
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\refint\finalproject.dll
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\finalproject.pdb
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\finalproject.genruntimeconfig.cache
+C:\Users\23guilliams0836\source\repos\finalproject\finalproject\obj\Debug\net6.0\ref\finalproject.dll
